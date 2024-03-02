@@ -11,6 +11,7 @@
       <div class="hero-content text-center">
         <div class="w-full">
           <h1 class="text-7xl font-bold">Linknest</h1>
+          <img src="chicken.png" alt="chicken" style="width: 100px; height: auto; display: block; margin: 0 auto;" />
           <p class="py-6 text-2xl">One simple link to share your entire developer portfolio</p>
           {#if $userData?.username}
             <a href="/{$userData.username}/edit" class="btn btn-primary">Edit Profile</a>

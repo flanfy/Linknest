@@ -37,12 +37,12 @@
       username, 
       photoURL: $user?.photoURL ?? null,
       published: true,
-      bio: 'I am the Walrus',
+      bio: '',
       links: [
         {
           title: 'Test Link',
-          url: 'https://linknest.foo',
-          icon: 'custom'
+          url: 'https://linknest.com',
+          icon: 'chicken' //<a href="https://www.flaticon.com/free-icons/nest" title="nest icons">Nest icons created by dreamicons - Flaticon</a>
         }
       ]
     });

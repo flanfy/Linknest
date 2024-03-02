@@ -21,11 +21,11 @@
     "LinkedIn",
     "GitHub",
     "CV",
-    "Custom",
+    // "Chicken",
   ];
 
   const formDefaults = {
-    icon: "custom",
+    icon: "",
     title: "",
     url: "https://",
   };
