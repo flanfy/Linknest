@@ -7,10 +7,10 @@ A social link sharing platform inspired by Linktree.
 - [Stack](#stack)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Testing](#testing)
 - [License](#license)
-## Features
+
+## Stack
 - TypeScript
 - Tailwind CSS
 - Svelte
@@ -23,9 +23,11 @@ A social link sharing platform inspired by Linktree.
 - animated drag-and-drop menu and route transition
 - image upload
 
-## Installation and Usage
+## Installation
 
-```bash
+# Open command prompt
+start -> cmd
+
 # Clone the repository
 git clone https://github.com/flanfy/Linknest
 
@@ -39,6 +41,4 @@ npm install
 npm run dev
 
 ## License
-
-The project is licensed under the MIT License.
-
+The project is licensed under the [MIT License](./license.txt).
