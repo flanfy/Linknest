@@ -25,19 +25,19 @@ A social link sharing platform inspired by Linktree.
 
 ## Installation
 
-# Open command prompt
+### Open command prompt
 start -> cmd
 
-# Clone the repository
+### Clone the repository
 git clone https://github.com/flanfy/Linknest
 
-# Navigate to the project directory
+### Navigate to the project directory
 cd linknest
 
-# Install dependencies
+### Install dependencies
 npm install
 
-# Start the development server
+### Start the development server
 npm run dev
 
 ## License
