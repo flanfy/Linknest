@@ -14,8 +14,18 @@
 
 <main class="prose text-center mx-auto mt-8">
 
+  <!-- <script>
+    let data = {
+      username: "flan"
+    };
+  </script> -->
+  
   <h1 class="text-7xl text-purple-400">
-    @{data.username}
+    {#if data.username === "flan"}
+      Phillip Lu
+    {:else}
+      {data.username}
+    {/if}
   </h1>
 
   <img
